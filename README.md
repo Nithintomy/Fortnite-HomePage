@@ -35,3 +35,5 @@ cd Frontend
 Start the development server:
 npm run dev
 
+Hosted Using Vercel:
+https://fortnite-home-page.vercel.app/
