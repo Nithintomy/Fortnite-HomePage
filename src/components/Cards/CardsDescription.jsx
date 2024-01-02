@@ -1,4 +1,4 @@
-// CardsDescription.jsx
+
 import React from 'react';
 import Cards from './Cards';
 import Fortnite_2 from '../../assets/Fortnite_20180630171046.png';

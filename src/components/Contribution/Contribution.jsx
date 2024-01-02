@@ -1,4 +1,4 @@
-// Contribution.jsx
+
 import React from 'react';
 import Revenue from './Revenue';
 
